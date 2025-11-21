@@ -42,4 +42,8 @@ O projeto visa aplicar técnicas de análise de dados para extrair insights e su
 
 Os dados utilizados são públicos e foram obtidos através da plataforma OpenDataSUS do Ministério da Saúde do Brasil.
 
+## 📼 Video apresentação do projeto
+
+https://www.youtube.com/watch?v=cy8flh-3nlU&feature=youtu.be
+
 **Autor:** Enzo Enrico Braga Cavalcante
